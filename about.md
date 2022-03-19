@@ -8,7 +8,7 @@ Please check out our [projects and repository](https://github.com/aurealab).
 
 ## Permanent members of the laboratory
 
-### [Luca Spada](http://logica.dipmat.unisa.it/lucaspada/)
+### [Luca Spada](http://logica.dipmat.unisa.it/lucaspada/) (coordinator of the laboratory)
 ### [Giacomo Lenzi](https://docenti.unisa.it/023111/home)
 ### [Serafina Lapenta](https://serafinalapenta.weebly.com)
 
