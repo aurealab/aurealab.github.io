@@ -11,8 +11,8 @@ Those are the webpages of the Laboratory of Automated Reasoning at the Universit
 # Temporary mmebers (PostDocs)
 
 ### [Marco Abbadini](http://logica.dipmat.unisa.it/marcoabbadini/)
-### [Luca Carai]
-### [Gaetano Vitale]
+### [Luca Carai](https://www.researchgate.net/profile/Luca-Carai)
+### [Gaetano Vitale](https://rubrica.unisa.it/persone?matricola=027577)
 
 # Trainee
 ### Sebastiano Napolitano
