@@ -1,6 +1,3 @@
-layout: page
-title: "Projects of the AureaLab"
-permalink: /
 
 # Projects of the AuraLab
 
