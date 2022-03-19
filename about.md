@@ -1,4 +1,4 @@
-| [Projects](/projects) | [About](/about) | [Contact](/contact)
+| [Home](/index)| [Projects](/projects) | [About](/about) | [Contact](/contact)
 
 # About
 
