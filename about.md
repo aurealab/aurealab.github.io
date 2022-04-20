@@ -15,7 +15,7 @@ Please check out our [projects and repository](https://github.com/aurealab).
 ## Temporary members (PostDocs)
 
 ### [Marco Abbadini](http://logica.dipmat.unisa.it/marcoabbadini/)
-### [Luca Carai](https://www.researchgate.net/profile/Luca-Carai)
+### [Luca Carai](https://lucacarai.github.io)
 ### [Gaetano Vitale](https://rubrica.unisa.it/persone?matricola=027577)
 
 ## Trainees
