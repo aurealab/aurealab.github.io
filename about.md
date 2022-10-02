@@ -18,5 +18,6 @@ Please check out our [projects and repository](https://github.com/aurealab).
 ### [Luca Carai](https://lucacarai.github.io)
 ### [Gaetano Vitale](https://rubrica.unisa.it/persone?matricola=027577)
 
-## Trainees
+## Former Trainees
+### Alexandra Pantis
 ### Sebastiano Napolitano
