@@ -9,14 +9,13 @@ Please check out our [projects and repository](https://github.com/aurealab).
 ## Permanent members of the laboratory
 
 ### [Luca Spada](http://logica.dipmat.unisa.it/lucaspada/) (coordinator of the laboratory)
-### [Giacomo Lenzi](https://docenti.unisa.it/023111/home)
+<!---### [Giacomo Lenzi](https://docenti.unisa.it/023111/home) --->
 ### [Serafina Lapenta](https://serafinalapenta.weebly.com)
 
 ## Temporary members (PostDocs)
 
 ### [Marco Abbadini](http://logica.dipmat.unisa.it/marcoabbadini/)
-### [Luca Carai](https://lucacarai.github.io)
-### [Gaetano Vitale](https://rubrica.unisa.it/persone?matricola=027577)
+<!--- ### [Gaetano Vitale](https://rubrica.unisa.it/persone?matricola=027577) --->
 
 ## Former Trainees
 ### Alexandra Pantis
